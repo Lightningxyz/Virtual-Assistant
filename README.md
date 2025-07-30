@@ -1,6 +1,6 @@
 ## Python Voice Assistant (Hope)
 
-A very simple Python-based command line voice assistant that can report time, weather, search the web, manage a to-do list, and more. Worked on it a couple of years back and found it again, so decided to upload it.
+A very simple Python-based command line voice assistant that can report time, weather, search the web, manage a to-do list, and more. Worked on it a couple of years back and found it again, so decided to upload it. It does have a few bugs due to problems with the pyttsx3 module and newer versions of python.
 
 ### Features
 - Voice recognition (speech-to-text)
@@ -10,7 +10,7 @@ A very simple Python-based command line voice assistant that can report time, we
 - Create and export a todo list
 - Ask for time in any city via offline coordinates
 
-It does have a few bugs due to problems with the pyttsx3 module and newer versions of python.
+
 ### Setup
 
 1. Clone the repo
