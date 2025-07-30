@@ -10,6 +10,7 @@ A very simple Python-based command line voice assistant that can report time, we
 - Create and export a todo list
 - Ask for time in any city via offline coordinates
 
+It does have a few bugs due to problems with the pyttsx3 module and newer versions of python.
 ### Setup
 
 1. Clone the repo
