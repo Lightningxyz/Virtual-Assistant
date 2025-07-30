@@ -1,0 +1,8 @@
+pyttsx3
+pywhatkit
+SpeechRecognition
+requests
+timezonefinder
+pytz
+python-dotenv
+art
