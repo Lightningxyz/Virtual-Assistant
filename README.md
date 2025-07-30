@@ -1,4 +1,4 @@
-## Python Voice Assistant (HOPE)
+## Python Voice Assistant (Hope)
 
 A very simple Python-based command line voice assistant that can report time, weather, search the web, manage a to-do list, and more. Worked on it a couple of years back and found it again, so decided to upload it.
 
