@@ -16,3 +16,13 @@ A very simple Python-based command line voice assistant that can report time, we
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+
+3. This project uses the OpenWeatherMap API to fetch weather data.
+
+    Go to https://openweathermap.org/api
+
+    Sign up and get your free API key
+
+    Create a .env file in the project root with the following content:
+
+   WEATHER_API_KEY=your_openweathermap_api_key_here
