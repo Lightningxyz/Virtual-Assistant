@@ -1,6 +1,5 @@
 import pywhatkit
 import pyttsx3
-from art import *
 import json
 import csv
 import speech_recognition as sr
